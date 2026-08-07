@@ -3,7 +3,8 @@
 2026.08.06
 
 
-
+* https://github.com/ftk1000/graph_rag.md/blob/main/README.md
+  
 ----
 
 
